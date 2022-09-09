@@ -1,4 +1,4 @@
-#include <unistd. h>
+#include <unistd.h>
 /**
  * main - prints the standard error sandwiched around the standard outpu/t
  * Return:returns 1
